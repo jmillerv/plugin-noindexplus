@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "title": "No Index+",
+  "description": "Adds a custom robots.txt file that prevents OpenAI as well as search engines from indexing & ingesting your site's content.",
+  "includes": [
+    "noindex.html"
+  ]
+}
